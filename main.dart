@@ -1,6 +1,3 @@
-//import 'dart:html';
-import 'dart:io';
-
 void main() {
   print('Solution: 1');
   for (int i = 1; i <= 100; i++) {
